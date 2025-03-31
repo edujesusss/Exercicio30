@@ -1,6 +1,6 @@
 package com.mycompany.exercicio30;
 
-import java.swing.*;
+import java.util.Scanner;
 
 public class Exercicio30 {
 
